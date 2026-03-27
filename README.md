@@ -62,6 +62,3 @@ This GitHub serves as a repository for:
 
 Email: tanush@umich.edu  
 Web: https://www.risat.org/shaska.html
-
-Email: tanush@umich.edu  
-Web: https://sites.google.com/risat.org/home/people/shaska  

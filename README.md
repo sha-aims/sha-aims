@@ -32,16 +32,24 @@ I work where algebra, geometry and computation meet: explicit equations for modu
 |---|---|---|
 | Moduli of curves and rational maps<br>Weighted projective varieties<br>Weighted heights and rational points<br>Superelliptic curves | Graded neural networks<br>Graded transformers<br>Neuro-symbolic learning<br>Invariant shape descriptors | Quantum weighted algebraic codes<br>Algebraic geometry codes<br>Split Jacobians and isogenies<br>Isogeny-based cryptography |
 
-## Selected work
+## Selected publications
 
-- **Automorphism groups of algebraic curves.** *Determining the automorphism group of a hyperelliptic curve* (ISSAC 2003, ACM); *The locus of curves with prescribed automorphism group* (RIMS Kôkyûroku 2002).
-- **Genus 2 curves with split Jacobians.** *Curves of genus 2 with (n,n)-decomposable Jacobians* (J. Symbolic Comput. 2001); *Genus 2 fields with degree 3 elliptic subfields* (Forum Math. 2004); *Elliptic subfields and automorphisms of genus 2 function fields* (Springer 2004). The equations for (3,3)- and (5,5)-split Jacobians remain relevant to (n,n)-isogenies in isogeny-based cryptography.
-- **Invariants of hyperelliptic curves.** *Hyperelliptic curves with extra involutions* (LMS J. Comput. Math. 2005), where dihedral invariants were introduced; *Invariants of binary forms* (Progress in Galois Theory, Springer 2005).
-- **Superelliptic curves.** *From hyperelliptic to superelliptic curves* (Albanian J. Math. 2019); *Superelliptic curves with many automorphisms and CM Jacobians* (Math. Comp. 2021).
-- **Geometry and mathematical physics.** *Six line configurations and string dualities* (Comm. Math. Phys. 2019); *The Satake sextic in F-theory* (J. Geom. Phys. 2017).
-- **Weighted projective varieties.** *Weighted greatest common divisors and weighted heights* (J. Number Theory 2020); *Weighted heights and GIT heights* (J. Algebraic Combin. 2026).
-- **Graded learning architectures.** *Graded neural networks* (Int. J. Data Sci. Math. Sci. 2025); *Artificial neural networks on graded vector spaces* (Contemp. Math. 835, 2026).
-- **Coding theory.** *Codes over rings of size four, Hermitian lattices, and corresponding theta functions* (Proc. AMS 2008); *Quantum weighted algebraic codes* (Des. Codes Cryptogr. 2026).
+- **Communications in Mathematical Physics** 371 (2019): *Six line configurations and string dualities*
+- **Mathematics of Computation** 90 (2021): *Superelliptic curves with many automorphisms and CM Jacobians*
+- **Michigan Mathematical Journal** 75 (2025): *Arithmetic inflection of superelliptic curves*
+- **Michigan Mathematical Journal** 71 (2022): *On isogenies among certain abelian surfaces*
+- **Proceedings of the AMS** 136 (2008): *Codes over rings of size four, Hermitian lattices, and corresponding theta functions*
+- **Forum Mathematicum** 21 (2009): *Genus 2 curves that admit a degree 5 map to an elliptic curve*
+- **Forum Mathematicum** 16 (2004): *Genus 2 fields with degree 3 elliptic subfields*
+- **Journal of Number Theory** 213 (2020): *Weighted greatest common divisors and weighted heights*
+- **Journal of Symbolic Computation**: *Rational functions on the projective line from a computational viewpoint*
+- **Journal of Symbolic Computation** 31 (2001): *Curves of genus 2 with (n,n)-decomposable Jacobians*
+- **Transformation Groups** (2025): *On generalized superelliptic Riemann surfaces*
+- **Designs, Codes and Cryptography** 94 (2026): *Quantum weighted algebraic codes*
+- **Journal of Algebraic Combinatorics** 63 (2026): *Weighted heights and GIT heights*
+- **Pure and Applied Mathematics Quarterly** 17 (2021): *Geometry of Prym varieties for certain bielliptic curves of genus three and five*
+- **LMS Journal of Computation and Mathematics** 8 (2005): *Hyperelliptic curves with extra involutions*
+- **ISSAC 2003**, ACM: *Determining the automorphism group of a hyperelliptic curve*
 
 **Full list of 120+ papers and preprints: [i-aims.com/preprints](https://i-aims.com/preprints)**
 

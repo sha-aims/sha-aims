@@ -4,8 +4,6 @@
 
 **Arithmetic geometry · Algebraic curves and their moduli · Graded and neuro-symbolic learning**
 
-Professor of Mathematics
-
 [![Institute: I-AIMS.com](https://img.shields.io/badge/Institute-I--AIMS.com-1f3a5f?style=for-the-badge)](https://i-aims.com)
 [![Journal: I-AIMS.org](https://img.shields.io/badge/Journal-I--AIMS.org-8b1e3f?style=for-the-badge)](https://i-aims.org)
 
@@ -34,35 +32,23 @@ I work where algebra, geometry and computation meet: explicit equations for modu
 |---|---|---|
 | Moduli of curves and rational maps<br>Weighted projective varieties<br>Weighted heights and rational points<br>Superelliptic curves | Graded neural networks<br>Graded transformers<br>Neuro-symbolic learning<br>Invariant shape descriptors | Quantum weighted algebraic codes<br>Algebraic geometry codes<br>Split Jacobians and isogenies<br>Isogeny-based cryptography |
 
-## Highlights
+## Selected work
 
-- **Split Jacobians.** My thesis computed the loci of genus 2 curves with (3,3)- and (5,5)-split Jacobians and gave a general method for higher *n*; these equations remain relevant to computing (*n*,*n*)-isogenies in isogeny-based cryptography.
-- **Dihedral invariants** of hyperelliptic curves, introduced with J. Gutierrez.
-- **Weighted greatest common divisors and weighted heights**, with L. Beshaj and J. Gutierrez: the starting point of a program on the arithmetic of weighted projective varieties.
-- **Graded neural networks and graded transformers**: learning architectures built on graded vector spaces.
-- **Quantum weighted algebraic codes**: quantum codes from weighted projective geometry.
-
-## Selected publications
-
-- Superelliptic curves with many automorphisms and CM Jacobians (with A. Obus). *Mathematics of Computation* 90 (2021)
-- Six line configurations and string dualities (with A. Clingher, A. Malmendier). *Communications in Mathematical Physics* 371 (2019)
-- Arithmetic inflection of superelliptic curves (with E. Cotterill, I. Darago, C. Garay López, C. Han). *Michigan Mathematical Journal* 75 (2025)
-- On isogenies among certain abelian surfaces (with A. Clingher, A. Malmendier). *Michigan Mathematical Journal* 71 (2022)
-- Weighted greatest common divisors and weighted heights (with L. Beshaj, J. Gutierrez). *Journal of Number Theory* 213 (2020)
-- Rational functions on the projective line from a computational viewpoint (with E. Badr, E. Shaska). *Journal of Symbolic Computation*
-- Curves of genus 2 with (*n*,*n*)-decomposable Jacobians. *Journal of Symbolic Computation* 31 (2001)
-- Quantum weighted algebraic codes. *Designs, Codes and Cryptography* 94 (2026)
-- Weighted heights and GIT heights (with E. Shaska). *Journal of Algebraic Combinatorics* 63 (2026)
-- Graded neural networks. *International Journal of Data Science in the Mathematical Sciences* 3 (2025)
-- Codes over rings of size four, Hermitian lattices, and corresponding theta functions (with G. S. Wijesiri). *Proceedings of the AMS* 136 (2008)
-- Determining the automorphism group of a hyperelliptic curve. *ISSAC 2003*, ACM
+- **Automorphism groups of algebraic curves.** *Determining the automorphism group of a hyperelliptic curve* (ISSAC 2003, ACM); *The locus of curves with prescribed automorphism group* (RIMS Kôkyûroku 2002).
+- **Genus 2 curves with split Jacobians.** *Curves of genus 2 with (n,n)-decomposable Jacobians* (J. Symbolic Comput. 2001); *Genus 2 fields with degree 3 elliptic subfields* (Forum Math. 2004); *Elliptic subfields and automorphisms of genus 2 function fields* (Springer 2004). The equations for (3,3)- and (5,5)-split Jacobians remain relevant to (n,n)-isogenies in isogeny-based cryptography.
+- **Invariants of hyperelliptic curves.** *Hyperelliptic curves with extra involutions* (LMS J. Comput. Math. 2005), where dihedral invariants were introduced; *Invariants of binary forms* (Progress in Galois Theory, Springer 2005).
+- **Superelliptic curves.** *From hyperelliptic to superelliptic curves* (Albanian J. Math. 2019); *Superelliptic curves with many automorphisms and CM Jacobians* (Math. Comp. 2021).
+- **Geometry and mathematical physics.** *Six line configurations and string dualities* (Comm. Math. Phys. 2019); *The Satake sextic in F-theory* (J. Geom. Phys. 2017).
+- **Weighted projective varieties.** *Weighted greatest common divisors and weighted heights* (J. Number Theory 2020); *Weighted heights and GIT heights* (J. Algebraic Combin. 2026).
+- **Graded learning architectures.** *Graded neural networks* (Int. J. Data Sci. Math. Sci. 2025); *Artificial neural networks on graded vector spaces* (Contemp. Math. 835, 2026).
+- **Coding theory.** *Codes over rings of size four, Hermitian lattices, and corresponding theta functions* (Proc. AMS 2008); *Quantum weighted algebraic codes* (Des. Codes Cryptogr. 2026).
 
 **Full list of 120+ papers and preprints: [i-aims.com/preprints](https://i-aims.com/preprints)**
 
 ## Latest preprints
 
 - [Graded convolutional networks: scale invariance without the scale and robustness to unknown blur](https://i-aims.com/pub/sh-190)
-- [Decoy and disclosure radii of invariant shape descriptors](https://i-aims.com/pub/sh-183) (with L. Beshaj)
+- [Decoy and disclosure radii of invariant shape descriptors](https://i-aims.com/pub/sh-183)
 - [Exact Euclidean-invariant surface descriptors for data-efficient learning from segmented anatomy](https://i-aims.com/pub/sh-182)
 - [Chirality of spherical harmonics and automorphisms of hyperelliptic curves](https://i-aims.com/pub/sh-181)
 - [Detecting superellipticity in four-point Hurwitz spaces from braid monodromy](https://i-aims.com/pub/sh-162)
@@ -78,17 +64,17 @@ Available from [I-AIMS Textbooks](https://i-aims.com/textbooks).
 <details>
 <summary><b>Edited volumes (12)</b></summary>
 
-- *Artificial Intelligence and Mathematics Research* (with M. S. Im). Contemp. Math. 835, AMS, 2026
-- *Abelian Surfaces and Isogeny-Based Cryptography* (with S. Zemel). NATO SPS Series D 66, IOS Press, 2025
-- *Abelian Varieties and Number Theory* (with M. Jarden). Contemp. Math. 767, AMS, 2021
-- *Integrable Systems and Algebraic Geometry*, Vols. 1–2 (with R. Donagi). LMS Lecture Note Series 458–459, Cambridge University Press, 2020
-- *Algebraic Curves and Their Applications* (with L. Beshaj). Contemp. Math. 724, AMS, 2019
-- *Higher Genus Curves in Mathematical Physics and Arithmetic Geometry* (with A. Malmendier). Contemp. Math. 703, AMS, 2018
-- *Advances on Superelliptic Curves and Their Applications* (with L. Beshaj, E. Zhupa). NATO SPS Series D 41, IOS Press, 2015
-- *Algebraic Aspects of Digital Communications* (with E. Hasimaj). NATO SPS Series D 24, IOS Press, 2009
-- *Advances in Coding Theory and Cryptography* (with W. C. Huffman, D. Joyner, V. Ustimenko). World Scientific, 2007
+- *Artificial Intelligence and Mathematics Research*. Contemp. Math. 835, AMS, 2026
+- *Abelian Surfaces and Isogeny-Based Cryptography*. NATO SPS Series D 66, IOS Press, 2025
+- *Abelian Varieties and Number Theory*. Contemp. Math. 767, AMS, 2021
+- *Integrable Systems and Algebraic Geometry*, Vols. 1–2. LMS Lecture Note Series 458–459, Cambridge University Press, 2020
+- *Algebraic Curves and Their Applications*. Contemp. Math. 724, AMS, 2019
+- *Higher Genus Curves in Mathematical Physics and Arithmetic Geometry*. Contemp. Math. 703, AMS, 2018
+- *Advances on Superelliptic Curves and Their Applications*. NATO SPS Series D 41, IOS Press, 2015
+- *Algebraic Aspects of Digital Communications*. NATO SPS Series D 24, IOS Press, 2009
+- *Advances in Coding Theory and Cryptography*. World Scientific, 2007
 - *Computational Aspects of Algebraic Curves*. Lecture Notes Series on Computing 13, World Scientific, 2005
-- *Progress in Galois Theory* (with H. Völklein). Developments in Mathematics 12, Springer, 2005
+- *Progress in Galois Theory*. Developments in Mathematics 12, Springer, 2005
 
 Special issues: *Journal of Symbolic Computation* 57 (2013); *Applicable Algebra in Engineering, Communication and Computing* 24 (2013).
 

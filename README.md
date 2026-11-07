@@ -4,7 +4,12 @@
 
 **Arithmetic geometry · Algebraic curves and their moduli · Graded and neuro-symbolic learning**
 
-Professor of Mathematics · Oakland University (Mathematics & Statistics · Computer Science & Engineering) · [I-AIMS](https://i-aims.com)
+Professor of Mathematics
+
+[![Institute: I-AIMS.com](https://img.shields.io/badge/Institute-I--AIMS.com-1f3a5f?style=for-the-badge)](https://i-aims.com)
+[![Journal: I-AIMS.org](https://img.shields.io/badge/Journal-I--AIMS.org-8b1e3f?style=for-the-badge)](https://i-aims.org)
+
+**[I-AIMS](https://i-aims.com)**, Institute for Artificial Intelligence and Mathematical Sciences · **[JMAI](https://i-aims.org)**, Journal of Mathematics and Artificial Intelligence
 
 [![Website](https://img.shields.io/badge/i--aims.com%2Fshaska-1f3a5f?style=flat-square)](https://i-aims.com/shaska)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-1f3a5f?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=9_X3CoMAAAAJ)
@@ -15,7 +20,7 @@ Professor of Mathematics · Oakland University (Mathematics & Statistics · Comp
 [![dblp](https://img.shields.io/badge/dblp-1f3a5f?style=flat-square)](https://dblp.org/pid/40/1187.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f3a5f?style=flat-square)](https://www.linkedin.com/in/tshaska/)
 
-**120+ papers and preprints** · **12 edited volumes** · **Founder, Journal of Mathematics and AI**
+**120+ papers and preprints** · **12 edited volumes** · **Founder, [Journal of Mathematics and AI](https://i-aims.org)**
 
 </div>
 
@@ -107,4 +112,4 @@ Special issues: *Journal of Symbolic Computation* 57 (2013); *Applicable Algebra
 
 ## Contact
 
-shaska@i-aims.com · [i-aims.com/shaska](https://i-aims.com/shaska)
+shaska@i-aims.com · Institute: [i-aims.com](https://i-aims.com) · Journal: [i-aims.org](https://i-aims.org)
